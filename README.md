@@ -57,3 +57,93 @@ cd forgecli
 
 # Construir el proyecto
 cargo build --release
+```
+Crear un Proyecto 
+```bash
+# Crear proyecto Rust
+cargo run -- crear mi-proyecto-rust rust
+
+# Crear proyecto React
+cargo run -- crear mi-app-react react
+
+# Crear proyecto Next.js
+cargo run -- crear mi-app-next next
+```
+#📁 Estructura Generada
+## Proyecto React
+
+mi-app-react/
+├── public/
+│   └── vite.svg
+├── src/
+│   ├── App.tsx
+│   ├── index.css
+│   └── main.tsx
+├── index.html
+├── package.json
+├── tsconfig.json
+├── vite.config.ts
+├── tailwind.config.js
+├── postcss.config.js
+└── .gitignore
+
+##Proyecto Next.js
+
+mi-app-next/
+├── app/
+│   ├── layout.tsx
+│   └── page.tsx
+├── public/
+├── package.json
+├── next.config.js
+├── tsconfig.json
+├── tailwind.config.js
+├── postcss.config.js
+└── .gitignore
+
+## Proyecto Rust
+
+mi-proyecto-rust/
+├── src/
+│   └── main.rs
+├── Cargo.toml
+└── .gitignore
+
+⚙️ Configuraciones Incluidas
+React
+Vite: Bundler rápido con Hot Module Replacement
+TypeScript: Tipado estático para mejor desarrollo
+Tailwind CSS: Framework CSS utility-first
+ESLint: Linting para mantener el código limpio
+Next.js
+App Router: Arquitectura moderna de Next.js
+TypeScript: Configuración completa
+Tailwind CSS: Integración nativa
+Optimizaciones: Configuradas por defecto
+Rust
+Edition 2021: Última edición estable
+Estructura limpia: Siguiendo las convenciones de Cargo
+🤝 Contribuciones
+Las contribuciones son bienvenidas. Por favor, sigue estos pasos:
+
+Haz un fork del repositorio
+Crea una rama para tu feature (git checkout -b feature/NuevaFeature)
+Haz commit de tus cambios (git commit -m 'Añadir nueva feature')
+Haz push a la rama (git push origin feature/NuevaFeature)
+Abre un Pull Request
+📄 Licencia
+Este proyecto está licenciado bajo la Licencia MIT - ver el archivo LICENSE para más detalles.
+
+📞 Contacto
+Autor: Tu Nombre
+Email: tu.email@ejemplo.com
+GitHub: @tu-usuario
+
+🙏 Agradecimientos
+Gracias a la comunidad de Rust por crear un lenguaje increíble
+A los equipos de React, Next.js y Vite por sus excelentes herramientas
+A todos los contribuidores de las bibliotecas utilizadas en este proyecto
+📈 Roadmap
+Próximas versiones:
+Soporte para Vue.js
+Soporte para Svelte/SvelteKit
