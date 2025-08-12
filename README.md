@@ -111,19 +111,19 @@ mi-proyecto-rust/
 └── .gitignore
 ```
 #⚙️ Configuraciones Incluidas
-React
-Vite: Bundler rápido con Hot Module Replacement
-TypeScript: Tipado estático para mejor desarrollo
-Tailwind CSS: Framework CSS utility-first
-ESLint: Linting para mantener el código limpio
-Next.js
-App Router: Arquitectura moderna de Next.js
-TypeScript: Configuración completa
-Tailwind CSS: Integración nativa
-Optimizaciones: Configuradas por defecto
-Rust
-Edition 2021: Última edición estable
-Estructura limpia: Siguiendo las convenciones de Cargo
+##React
+- Vite: Bundler rápido con Hot Module Replacement
+- TypeScript: Tipado estático para mejor desarrollo
+- Tailwind CSS: Framework CSS utility-first
+- ESLint: Linting para mantener el código limpio
+##Next.js
+- App Router: Arquitectura moderna de Next.js
+- TypeScript: Configuración completa
+- Tailwind CSS: Integración nativa
+- Optimizaciones: Configuradas por defecto
+##Rust
+- Edition 2021: Última edición estable
+- Estructura limpia: Siguiendo las convenciones de Cargo
 #🤝 Contribuciones
 Las contribuciones son bienvenidas. Por favor, sigue estos pasos:
 
