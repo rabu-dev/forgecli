@@ -71,7 +71,7 @@ cargo run -- crear mi-app-next next
 ```
 #📁 Estructura Generada
 ## Proyecto React
-
+```bash
 mi-app-react/
 ├── public/
 │   └── vite.svg
@@ -86,9 +86,9 @@ mi-app-react/
 ├── tailwind.config.js
 ├── postcss.config.js
 └── .gitignore
-
+```
 ##Proyecto Next.js
-
+```bash
 mi-app-next/
 ├── app/
 │   ├── layout.tsx
@@ -100,16 +100,17 @@ mi-app-next/
 ├── tailwind.config.js
 ├── postcss.config.js
 └── .gitignore
-
+```
 ## Proyecto Rust
 
+```bash
 mi-proyecto-rust/
 ├── src/
 │   └── main.rs
 ├── Cargo.toml
 └── .gitignore
-
-⚙️ Configuraciones Incluidas
+```
+#⚙️ Configuraciones Incluidas
 React
 Vite: Bundler rápido con Hot Module Replacement
 TypeScript: Tipado estático para mejor desarrollo
@@ -123,7 +124,7 @@ Optimizaciones: Configuradas por defecto
 Rust
 Edition 2021: Última edición estable
 Estructura limpia: Siguiendo las convenciones de Cargo
-🤝 Contribuciones
+#🤝 Contribuciones
 Las contribuciones son bienvenidas. Por favor, sigue estos pasos:
 
 Haz un fork del repositorio
@@ -131,19 +132,19 @@ Crea una rama para tu feature (git checkout -b feature/NuevaFeature)
 Haz commit de tus cambios (git commit -m 'Añadir nueva feature')
 Haz push a la rama (git push origin feature/NuevaFeature)
 Abre un Pull Request
-📄 Licencia
+#📄 Licencia
 Este proyecto está licenciado bajo la Licencia MIT - ver el archivo LICENSE para más detalles.
 
-📞 Contacto
-Autor: Tu Nombre
-Email: tu.email@ejemplo.com
-GitHub: @tu-usuario
+#📞 Contacto
+ - Autor: Tu Nombre
+ - Email: tu.email@ejemplo.com
+ - GitHub: @tu-usuario
 
-🙏 Agradecimientos
+# 🙏 Agradecimientos
 Gracias a la comunidad de Rust por crear un lenguaje increíble
 A los equipos de React, Next.js y Vite por sus excelentes herramientas
 A todos los contribuidores de las bibliotecas utilizadas en este proyecto
-📈 Roadmap
+#📈 Roadmap
 Próximas versiones:
-Soporte para Vue.js
-Soporte para Svelte/SvelteKit
+* Soporte para Vue.js
+* Soporte para Svelte/SvelteKit
