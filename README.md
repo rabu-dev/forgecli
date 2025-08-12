@@ -135,10 +135,10 @@ Abre un Pull Request
 #📄 Licencia
 Este proyecto está licenciado bajo la Licencia MIT - ver el archivo LICENSE para más detalles.
 
-#📞 Contacto
- - Autor: Tu Nombre
- - Email: tu.email@ejemplo.com
- - GitHub: @tu-usuario
+# 📞 Contacto
+ - Autor: Rabudev
+ - Email: rabudevelopers@gmail.com
+ - GitHub: @rabu-dev
 
 # 🙏 Agradecimientos
 Gracias a la comunidad de Rust por crear un lenguaje increíble
